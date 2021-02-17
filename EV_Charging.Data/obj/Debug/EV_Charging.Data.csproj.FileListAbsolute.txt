@@ -1,0 +1,12 @@
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EV_Charging.Data.dll.config
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EV_Charging.Data.dll
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EV_Charging.Data.pdb
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EntityFramework.dll
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EntityFramework.xml
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\obj\Debug\EV_Charging.Data.csprojAssemblyReference.cache
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\obj\Debug\EV_Charging.Data.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\obj\Debug\EV_Charging.Data.csproj.CopyComplete
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\obj\Debug\EV_Charging.Data.dll
+C:\Users\Besitzer\source\repos\EV_Charging\EV_Charging.Data\obj\Debug\EV_Charging.Data.pdb
